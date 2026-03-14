@@ -4,6 +4,11 @@
 
 No AWS. No API keys. No cold starts. Just Python.
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Allen091080/local-code-interpreter/releases/tag/v1.0.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-green)](https://skills.sh)
+
 ---
 
 ## Features
